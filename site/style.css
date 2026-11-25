@@ -11,3 +11,12 @@
 @media(max-width:767px){.vo-nav{height:auto;min-height:64px;flex-wrap:wrap;gap:13px;padding-top:14px;padding-bottom:11px}.vo-navLinks{width:100%;order:3;gap:18px;overflow-x:auto;justify-content:flex-start;padding-bottom:2px;scrollbar-width:none}.vo-navLinks::-webkit-scrollbar{display:none}.vo-navLink{display:block;flex:0 0 auto;white-space:nowrap;font-size:10px;letter-spacing:.1em}.vo-sectionAside{margin-top:-9px}.vo-routes{gap:24px}.vo-route{min-height:0;padding:20px 0 23px}.vo-route:hover{padding-left:8px;padding-right:8px}.vo-notesSection{padding-top:49px}.vo-notesIntro{display:block}.vo-comingSoon{display:block;margin-top:20px}}
 
 @media(max-width:767px){.vo-navLinks{gap:12px;flex-wrap:wrap;overflow:visible}.vo-navLink{letter-spacing:.06em}.vo-sub{padding-right:28px}}
+.vo-briefForm{max-width:640px;margin-top:30px;padding-top:26px;border-top:1px solid rgb(255 255 255/.18)}
+.vo-briefIntro{margin:0;color:rgb(255 255 255/.78);font:400 14px/1.55 var(--sans)}
+.vo-briefForm label{display:block;margin:16px 0 7px;color:rgb(255 255 255/.56);font:600 11px/1 var(--sans);letter-spacing:.13em;text-transform:uppercase}
+.vo-briefForm input,.vo-briefForm select{width:100%;padding:11px 13px;border:1px solid rgb(255 255 255/.28);border-radius:4px;background:transparent;color:#fff;font:400 15px/1.4 var(--sans)}
+.vo-briefForm input::placeholder{color:rgb(255 255 255/.42)}
+.vo-briefForm input:focus,.vo-briefForm select:focus{outline:none;border-color:#fff}
+.vo-briefForm select option{color:#111}
+.vo-briefError{display:none;margin:12px 0 0;color:#f0b4ac;font:400 13px/1.5 var(--sans)}
+.vo-briefSubmit{margin-top:18px;cursor:pointer}
