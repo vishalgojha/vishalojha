@@ -4,6 +4,7 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.vo-btn,.vo-route{transition:none}}
 
 /* Editorial pass: keep the routes and notes open, less card-like, and easier to extend. */
+.vo-brand small{display:block;margin-top:5px;color:var(--muted);font:600 8px/1 var(--sans);letter-spacing:.09em;text-transform:uppercase}
 .vo-sectionIntro>div:first-child{min-width:0}.vo-sectionAside{max-width:270px;margin:0 0 28px;color:var(--muted);font:400 12px/1.55 var(--sans)}
 .vo-routes{gap:35px}.vo-route{min-height:260px;padding:20px 0 24px;border:0;border-top:1px solid var(--ink);border-bottom:1px solid var(--line);border-radius:0;transition:background .2s,padding .2s}.vo-route:hover{padding-left:13px;padding-right:13px;border-color:var(--ink);background:#fffdfa}.vo-routeTitle{font-size:25px}
 .vo-notesSection{padding-top:66px}.vo-notesIntro{display:flex;align-items:end;justify-content:space-between;gap:24px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:21px 0}.vo-notesIntro p{max-width:540px;margin:0;color:var(--muted);font:400 16px/1.55 var(--sans)}.vo-comingSoon{color:var(--teal);font:700 10px/1.4 var(--sans);letter-spacing:.14em;text-transform:uppercase;white-space:nowrap}
