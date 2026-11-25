@@ -1,0 +1,7 @@
+{
+  "name": "vishalojha-brokerage-preview",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf dist && cp -R site dist"
+  }
+}
