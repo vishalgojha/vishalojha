@@ -1,0 +1,24 @@
+# Vishal Ojha
+
+> One-to-one real estate brokerage across Mumbai’s western suburbs.
+
+## What this site is
+
+Vishal Ojha is a personal real estate broker working directly with people buying, renting, selling or leasing homes in Mumbai.
+
+## Areas
+
+- Bandra West: Pali Hill, Carter Road, Bandstand and the lanes between.
+- Khar West: quiet lanes, old buildings and new towers next to each other.
+- Santacruz West: family buildings and established societies.
+- Bandra East and BKC: homes for people working in the business district, including TEN BKC and X BKC.
+
+## Contact
+
+- WhatsApp: +91 98200 56180 — https://wa.me/919820056180
+- Email: vishal.ojha@gmail.com
+- Website: https://www.vishalojha.me/
+
+## Related
+
+Vishal also builds PropAI, software that makes WhatsApp broker-group messages searchable: https://www.propai.live
